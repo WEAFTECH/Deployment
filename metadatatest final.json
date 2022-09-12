@@ -1,0 +1,15 @@
+{
+  "description": "Black and White monkey on grey background",
+  "image": "https://gateway.pinata.cloud/ipfs/QmeAoCmaA91Z7gAKUSXmtya5n85C1XXd9E1C4iA5vq5qk5",
+  "name": "Grey Monkey",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "B&W"
+    }
+  ]
+}
